@@ -1,0 +1,4 @@
+$schema: https://azuremlschemas.azureedge.net/latest/model.schema.json
+name: model-test
+version: 1
+local_path: "../model/weights.pth"
